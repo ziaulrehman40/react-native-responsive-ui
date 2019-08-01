@@ -23,7 +23,8 @@
     "source": "src",
     "output": "dist",
     "targets": [
-      "typescript"
+      "typescript",
+      "module"
     ]
   },
   "peerDependencies": {
