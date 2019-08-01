@@ -13,7 +13,7 @@
     "prepare": "bob build",
     "lint": "eslint src/**/* __tests__/**/*.tsx",
     "test": "jest",
-    "tsc": "tsc --noEmit"
+    "tsc": "tsc"
   },
   "files": [
     "src",
